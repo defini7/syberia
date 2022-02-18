@@ -70,3 +70,4 @@ typings/
 
 node_modules
 test.parser
+.vscode
