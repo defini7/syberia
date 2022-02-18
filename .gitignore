@@ -68,7 +68,6 @@ typings/
 # Gatsby files
 .cache/
 
-node_modules
 test.parser
 .vscode
 *.js
